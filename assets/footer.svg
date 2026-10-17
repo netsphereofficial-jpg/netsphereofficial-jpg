@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 70" width="1200" height="70" role="img" aria-label="connection closed, keep shipping">
+<defs><style>
+  .run { animation: run 30s linear infinite; } @keyframes run { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
+  .blink { animation: blink 1s steps(1) infinite; } @keyframes blink { 50% { opacity: 0; } }
+</style>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#010a04"/><stop offset=".15" stop-color="#010a04" stop-opacity="0"/><stop offset=".85" stop-color="#010a04" stop-opacity="0"/><stop offset="1" stop-color="#010a04"/></linearGradient></defs>
+<rect width="1200" height="70" rx="10" fill="#010a04"/>
+<g class="run" font-family="'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" fill="#00ff41" opacity="0.22" letter-spacing="3">
+  <text x="0" y="22">0ﾏﾗﾊﾊｱｳｳ1ｱﾔﾗﾔ0ﾅ1ｶｳ1ｳﾊﾅﾗﾏﾅ1ﾅﾏｳﾜ0ﾀ1ﾅﾗｱﾊﾜｶ0ﾗﾅｳﾜﾅﾊｱﾀﾅｶﾜ01ｻｶ1ﾅｱｳｳﾅｳﾅﾀﾏﾜﾔﾊﾜﾔ0ﾗﾗｻﾔｳﾏﾔ1ｻ0ﾜﾏﾀ1ﾗﾀｶｶ10ｻﾀ10ﾊﾜｻﾔﾜﾅﾏｻｻﾅ1ﾔﾊﾗﾅｳｱｱ1ｱｱ10ﾗﾜ</text><text x="1200" y="22">0ﾏﾗﾊﾊｱｳｳ1ｱﾔﾗﾔ0ﾅ1ｶｳ1ｳﾊﾅﾗﾏﾅ1ﾅﾏｳﾜ0ﾀ1ﾅﾗｱﾊﾜｶ0ﾗﾅｳﾜﾅﾊｱﾀﾅｶﾜ01ｻｶ1ﾅｱｳｳﾅｳﾅﾀﾏﾜﾔﾊﾜﾔ0ﾗﾗｻﾔｳﾏﾔ1ｻ0ﾜﾏﾀ1ﾗﾀｶｶ10ｻﾀ10ﾊﾜｻﾔﾜﾅﾏｻｻﾅ1ﾔﾊﾗﾅｳｱｱ1ｱｱ10ﾗﾜ</text>
+  <text x="-300" y="62">0ﾏﾗﾊﾊｱｳｳ1ｱﾔﾗﾔ0ﾅ1ｶｳ1ｳﾊﾅﾗﾏﾅ1ﾅﾏｳﾜ0ﾀ1ﾅﾗｱﾊﾜｶ0ﾗﾅｳﾜﾅﾊｱﾀﾅｶﾜ01ｻｶ1ﾅｱｳｳﾅｳﾅﾀﾏﾜﾔﾊﾜﾔ0ﾗﾗｻﾔｳﾏﾔ1ｻ0ﾜﾏﾀ1ﾗﾀｶｶ10ｻﾀ10ﾊﾜｻﾔﾜﾅﾏｻｻﾅ1ﾔﾊﾗﾅｳｱｱ1ｱｱ10ﾗﾜ</text><text x="900" y="62">0ﾏﾗﾊﾊｱｳｳ1ｱﾔﾗﾔ0ﾅ1ｶｳ1ｳﾊﾅﾗﾏﾅ1ﾅﾏｳﾜ0ﾀ1ﾅﾗｱﾊﾜｶ0ﾗﾅｳﾜﾅﾊｱﾀﾅｶﾜ01ｻｶ1ﾅｱｳｳﾅｳﾅﾀﾏﾜﾔﾊﾜﾔ0ﾗﾗｻﾔｳﾏﾔ1ｻ0ﾜﾏﾀ1ﾗﾀｶｶ10ｻﾀ10ﾊﾜｻﾔﾜﾅﾏｻｻﾅ1ﾔﾊﾗﾅｳｱｱ1ｱｱ10ﾗﾜ</text>
+</g>
+<rect width="1200" height="70" fill="url(#fade)"/>
+<text x="600" y="42" font-family="'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="16" fill="#00ff41" text-anchor="middle" letter-spacing="2">&gt; connection closed. keep shipping<tspan class="blink">_</tspan></text>
+</svg>
